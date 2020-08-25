@@ -26,6 +26,8 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
 * [Linguagem C Descomplicada - Portal de vídeo-aulas para estudo de programação](https://programacaodescomplicada.wordpress.com/)
 
 
+### Conhecimento prévio
+
 ### Índice 
 
 * [Linguagem C](#C01)
