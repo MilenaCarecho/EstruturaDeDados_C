@@ -29,6 +29,8 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
 ### Índice 
 
 * [Linguagem C](#C01)
+   - [ ] Usando o debugger
+   - [ ]
 
 
 * [Estrutura de Dados](#E01)
