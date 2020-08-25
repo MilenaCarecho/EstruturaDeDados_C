@@ -30,7 +30,74 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
 
 * [Linguagem C](#C01)
    - [ ] Usando o debugger
-   - [ ]
-
+   - [ ] Introdução
+   - [ ] Declaração de Variáveis
+   - [ ] Printf 
+   - [ ] Scanf 
+   - [ ] Operadores de Atribuição 
+   - [ ] Constantes 
+   - [ ] Operadores Aritméticos
+   - [ ] Comentários 
+   - [ ] Pré e Pós Incremento 
+   - [ ] Atribuição Simplificada 
+   - [ ] Operadores Relacionais 
+   - [ ] Operadores Lógicos 
+   - [ ] Comando If 
+   - [ ] Comando Else 
+   - [ ] Aninhamento If-Else
+   - [ ] Operador Ternário
+   - [ ] Comando Switch 
+   - [ ] Comando While
+   - [ ] Comando For 
+   - [ ] Comando Do-While 
+   - [ ] Aninhamento de Repetições
+   - [ ] Comando Break
+   - [ ] Comando Continue
+   - [ ] Comando Goto
+   - [ ] Array
+      - [ ] Vetor
+      - [ ] Matriz
+      - [ ] Multidimensional
+   - [ ] Inicialização de Arrays
+   - [ ] Somando um Array 
+   - [ ] Maior valor de um Array 
+   - [ ] Strings: Conceitos Básicos
+   - [ ] Struct: Introdução
+   - [ ] Unions: Introdução 
+   - [ ] Enum 
+   - [ ] Typedef
+   - [ ] Função 
+   - [ ] Recursão
+   - [ ] Alocação Dinâmica
+   - [ ] Arquivos 
+   - [ ] Parâmetros da main 
+   - [ ] Limpando o buffer do teclado 
+   - [ ] Mau uso da função FEOF()
+   - [ ] Mudando a localidade do computador 
+   - [ ] Classes de armazenamento
+   - [ ] Modificador volatil
+   - [ ] Ponteiro para função
+   - [ ] Campo de Bits em structs
+   - [ ] Array de Ponteiros e Ponteiro de Array
+   - [ ] Funções com número de parâmetros variável
+   - [ ] Diretiva #define – Funções Macros
+   - [ ] Diretivas de Inclusão Condicional
+   - [ ] Manipulação de memória
+   - [ ] Alinhamento e Preenchimento de Estruturas
+   - [ ] O Padrão C99
+   - [ ] O tipo long long int
+   - [ ] Novos tipos inteiros
+   - [ ] O tipo booleano
+   - [ ] O tipo Complexo
+   - [ ] Ponto flutuante padrão IEEE 754
+   - [ ] Funções matemáticas de tipo genérico
+   - [ ] Arrays de comprimento variável
+   - [ ] Campo array flexível dentro de estruturas
+   - [ ] Funções em linha
+   - [ ] A palavra-chave restrict
+   - [ ] Inicialização designada
+   - [ ] Literais compostos 
+   - [ ] Pacman em linguagem C e OpenGL
+   - [ ] Usando a função strtok()
 
 * [Estrutura de Dados](#E01)
