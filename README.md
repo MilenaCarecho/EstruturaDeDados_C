@@ -2,7 +2,7 @@
 
 Fala Devs, Beleza? 
 
-Criei esse repositorio para compartilhar com vocês como estou organizando meus estudos em estrutura de dados, utilizando a linguam de programação C 🎯
+Criei esse repositorio para compartilhar com vocês como estou organizando meus estudos em estrutura de dados, utilizando a linguam de programação C
 
 ### O que você vai encontrar nesse repositorio 🔎
 
