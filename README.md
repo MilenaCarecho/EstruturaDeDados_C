@@ -28,5 +28,7 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
 
 ### Índice 
 
-* [](#id01)
-* [](#id02)
+* [Linguagem C](#C01)
+
+
+* [Estrutura de Dados](#E01)
