@@ -101,3 +101,7 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
    - [ ] Usando a função strtok()
 
 * [Estrutura de Dados](#E01)
+
+   - [ ] Tipo Abstrato de Dados(TAD)
+   - [ ] Modularização
+   - [ ] Listas 
