@@ -112,9 +112,9 @@ livros e site do [André Backes](https://programacaodescomplicada.wordpress.com/
    - [ ] Modularização
    - [ ] Listas 
 
-### <a name="#C01"> Linguagem C</a>
+### <a name="C01"> Linguagem C</a>
 
-#### Introdução <a name="#Cid01"></a>
+#### Introdução <a name="Cid01"></a>
 
    - [ ] Leitura do capitulo 1 - Linguagem C Completa e Descomplicada
    - [ ] Baixar o CodeBlocks
