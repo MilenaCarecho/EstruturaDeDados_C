@@ -28,7 +28,7 @@ livros e site do [André Backes](https://programacaodescomplicada.wordpress.com/
 * [Linguagem C Descomplicada - Portal de vídeo-aulas para estudo de programação](https://programacaodescomplicada.wordpress.com/)
 
 **Documentação c**
-[Documentação C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=vs-2019) 
+* [Documentação C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=vs-2019) 
 
 
 ### Conhecimento prévio necessario
