@@ -16,7 +16,9 @@ Criei esse repositorio para compartilhar com vocês como estou organizando meus 
 
 ### Bibliografia 📚
 
-Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André Backes](https://programacaodescomplicada.wordpress.com/sobre/about/)
+Inicialmente eu vou utilizar como bibliografia os
+livros e site do [André Backes](https://programacaodescomplicada.wordpress.com/sobre/about/) e a documentação da linguagem C
+
 
 **Livros**  
 * [Linguagem C completa e Descomplicada - Autor: André Backes](https://kupdf.net/download/linguagem-c-completa-e-descomplicada_5ae0f496e2b6f5cc553bb08d_pdf) 
@@ -25,22 +27,24 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
 **Site**
 * [Linguagem C Descomplicada - Portal de vídeo-aulas para estudo de programação](https://programacaodescomplicada.wordpress.com/)
 
+**Documentação c**
+[Documentação C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=vs-2019) 
 
-### Conhecimento prévio
+
+### Conhecimento prévio necessario
 
 ### Índice 
 
 * [Linguagem C](#C01)
-   - [ ] Usando o debugger
-   - [ ] Introdução
-   - [ ] Declaração de Variáveis
-   - [ ] Printf 
-   - [ ] Scanf 
-   - [ ] Operadores de Atribuição 
-   - [ ] Constantes 
-   - [ ] Operadores Aritméticos
-   - [ ] Comentários 
-   - [ ] Pré e Pós Incremento 
+   - [ ] [Introdução](#Cid01)
+   - [ ] [Declaração de Variáveis](#Cid03)
+   - [ ] [Printf](#Cid04)
+   - [ ] [Scanf](#Cid05)
+   - [ ] [Operadores de Atribuição](#Cid06)
+   - [ ] [Constantes](#Cid07)
+   - [ ] [Operadores Aritméticos](#Cid08)
+   - [ ] [Comentários](#Cid09)
+   - [ ] [Pré e Pós Incremento](#Cid10)
    - [ ] Atribuição Simplificada 
    - [ ] Operadores Relacionais 
    - [ ] Operadores Lógicos 
@@ -107,3 +111,29 @@ Inicialmente **Eu** vou utilizar como bibliografia os livros e o site do [André
    - [ ] Tipo Abstrato de Dados(TAD)
    - [ ] Modularização
    - [ ] Listas 
+
+### Linguagem C <a name="#C01"></a>
+
+#### Introdução <a name="#Cid01"></a>
+
+   - [ ] Leitura do capitulo 1 - Linguagem C Completa e Descomplicada
+   - [ ] Baixar o CodeBlocks
+   - [ ] Usando o debugger
+   - [ ] Flash cards **bibliotecas e funções úteis da linguagem C**
+
+
+#### Declaração de Variáveis
+
+#### Printf
+
+#### Scanf
+
+#### Operadores de Atribuição
+
+#### Constantes
+
+#### Operadores Aritméticos
+
+#### Comentários
+
+#### Pré e Pós Incremento
