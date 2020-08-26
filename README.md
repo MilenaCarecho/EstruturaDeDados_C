@@ -49,7 +49,7 @@ livros e site do [André Backes](https://programacaodescomplicada.wordpress.com/
 
 #### Introdução <a name="Cid01"></a>
 
-   - [ ] Leitura do capitulo 1 - Linguagem C Completa e Descomplicada
+   - [ ] Leitura do capitulo 1 - [Linguagem C completa e Descomplicada - Autor: André Backes](https://kupdf.net/download/linguagem-c-completa-e-descomplicada_5ae0f496e2b6f5cc553bb08d_pdf) 
    - [ ] Baixar o CodeBlocks
    - [ ] Usando o debugger
    - [ ] Flash cards **bibliotecas e funções úteis da linguagem C**
