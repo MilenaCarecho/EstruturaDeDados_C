@@ -112,7 +112,7 @@ livros e site do [André Backes](https://programacaodescomplicada.wordpress.com/
    - [ ] Modularização
    - [ ] Listas 
 
-### Linguagem C <a name="#C01"></a>
+### <a name="#C01"> Linguagem C</a>
 
 #### Introdução <a name="#Cid01"></a>
 
